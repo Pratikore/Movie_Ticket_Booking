@@ -1,4 +1,4 @@
-# Movie_Ticket_Booking
+# Movie_Ticket_Booking_Project
   The main objective of our project was to allow users to book tickets for their 
 favorite movie which is currently available at a particular theatre. Instead of the traditional 
 way of booking movie tickets by going physically to the theatre, checking all the movies that 
